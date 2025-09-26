@@ -21,7 +21,7 @@ The player controls a knight who must face trolls appearing on the screen, earni
 - [Pygame](https://www.pygame.org/)
 
 Install dependencies with:
-```bash
+bash
 pip install pygame
 
 ## ▶️ How to Run
