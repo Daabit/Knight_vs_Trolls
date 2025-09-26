@@ -29,7 +29,7 @@ pip install pygame
 
 Clone this repository:
 ```
-git clone https://github.com/your-username/Knight_vs_Trolls.git
+git clone https://github.com/Daabit/Knight_vs_Trolls.git
 ```
 
 Navigate into the project folder:
