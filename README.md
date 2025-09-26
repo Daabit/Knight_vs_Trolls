@@ -39,7 +39,7 @@ cd Knight_vs_Trolls
 
 Run the game:
 ```
-python 08_game_combat.py
+python knight_vs_trolls.py
 ```
 ## 🎮 Controls
 
