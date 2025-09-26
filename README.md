@@ -1,4 +1,4 @@
-# Knight vs Trolls 🎮🐉
+# Knight vs Trolls 🎮
 
 A 2D arcade-style game developed in **Python** using the **Pygame** library.  
 The player controls a knight who must face trolls appearing on the screen, earning points by defeating them while avoiding losing lives. With each troll defeated, the difficulty progressively increases.
@@ -28,19 +28,19 @@ pip install pygame
 ## ▶️ How to Run
 
 Clone this repository:
-
-git clone https://github.com/your-username/knight-vs-trolls.git
-
+```
+git clone https://github.com/your-username/Knight_vs_Trolls.git
+```
 
 Navigate into the project folder:
-
-cd knight-vs-trolls
-
+```
+cd Knight_vs_Trolls
+```
 
 Run the game:
-
+```
 python 08_game_combat.py
-
+```
 ## 🎮 Controls
 
 Arrow Up (↑): Move the knight up
