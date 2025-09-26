@@ -1,7 +1,6 @@
 # Knight vs Trolls 🎮
 
-A 2D arcade-style game developed in **Python** using the **Pygame** library.  
-The player controls a knight who must face trolls appearing on the screen, earning points by defeating them while avoiding losing lives. With each troll defeated, the difficulty progressively increases.
+A 2D arcade-style game developed in **Python** using the **Pygame** library. The player controls a knight who must face trolls appearing on the screen, earning points by defeating them while avoiding losing lives. With each troll defeated, the difficulty progressively increases.
 
 ---
 
