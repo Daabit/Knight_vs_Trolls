@@ -60,6 +60,6 @@ You can modify the asset paths in the code to match your setup.
 This project was created for learning and demonstration purposes.
 You are free to use, modify, and improve it.
 
-## Screeshots
+## 📸 Screeshots
 ![Gameplay screenshot](screenshots/kvst_game_1.png)
 ![Gameplay screenshot](screenshots/kvst_game_2.png)
